@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+"this is some content"
+"content to append" 
+=======
+"totally diff. content to merge later"
+>>>>>>> new_branch_to_merge_later
